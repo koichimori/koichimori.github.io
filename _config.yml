@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://koichimori.github.io
+title: Small Problems
+email: koichi.mori@ymail.com
+author: koichi mori
+description: Just writing about small (mostly coding) problems facing day to day.
+paginate: 5
+google_analytics: 
